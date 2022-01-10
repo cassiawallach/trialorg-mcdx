@@ -13175,6 +13175,9 @@
         <layout>ProcessException-Process Exception Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>UserAlt-User Profile Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>copado__User_Story__c-User Story Layout %28Unmanaged%29</layout>
     </layoutAssignments>
     <layoutAssignments>

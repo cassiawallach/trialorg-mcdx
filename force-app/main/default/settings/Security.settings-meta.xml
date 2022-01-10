@@ -5,7 +5,24 @@
     <enableAuditFieldsInactiveOwner>false</enableAuditFieldsInactiveOwner>
     <enableAuraSecureEvalPref>true</enableAuraSecureEvalPref>
     <enableRequireHttpsConnection>true</enableRequireHttpsConnection>
-    <networkAccess/>
+    <networkAccess>
+        <ipRanges>
+            <end>35.196.204.156</end>
+            <start>35.196.204.156</start>
+        </ipRanges>
+        <ipRanges>
+            <end>34.138.82.38</end>
+            <start>34.138.82.38</start>
+        </ipRanges>
+        <ipRanges>
+            <end>34.73.115.109</end>
+            <start>34.73.115.109</start>
+        </ipRanges>
+        <ipRanges>
+            <end>34.73.99.157</end>
+            <start>34.73.99.157</start>
+        </ipRanges>
+    </networkAccess>
     <passwordPolicies>
         <complexity>AlphaNumeric</complexity>
         <expiration>NinetyDays</expiration>
