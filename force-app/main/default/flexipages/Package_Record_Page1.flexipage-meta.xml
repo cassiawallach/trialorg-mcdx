@@ -41,6 +41,21 @@
                         <valueListItems>
                             <value>copado__Artifact__c.cmcSf__Distribute_Package</value>
                         </valueListItems>
+                        <valueListItems>
+                            <value>CustomButton.copado__Artifact__c.copado__Generate_Project_Definition_File</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>CustomButton.copado__Artifact__c.copado__Manage_Metadata</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>CustomButton.copado__Artifact__c.copado__Manage_Package_Selection</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>CustomButton.copado__Artifact__c.copado__Manage_Org_Definition_Dependencies</value>
+                        </valueListItems>
+                        <valueListItems>
+                            <value>CustomButton.copado__Artifact__c.copado__Generate_New_Version</value>
+                        </valueListItems>
                     </valueList>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
@@ -104,6 +119,36 @@
                 <identifier>RecordPipeline_cField1</identifier>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.cmcSf__IsOrgDependent__c</fieldItem>
+                <identifier>RecordcmcSf_IsOrgDependent_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__Package_Namespace__c</fieldItem>
+                <identifier>Recordcopado_Package_Namespace_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__No_Namespace__c</fieldItem>
+                <identifier>Recordcopado_No_Namespace_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__Source_Api_Version__c</fieldItem>
+                <identifier>Recordcopado_Source_Api_Version_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__Target_Dev_Hub_Org__c</fieldItem>
+                <identifier>Recordcopado_Target_Dev_Hub_Org_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-92c41331-71dc-4e92-b44a-642c755d16cf</name>
         <type>Facet</type>
     </flexiPageRegions>
@@ -146,6 +191,24 @@
             <fieldInstance>
                 <fieldItem>Record.copado__DefaultPath__c</fieldItem>
                 <identifier>RecordDefaultPath_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__Sfdc_Login_Url__c</fieldItem>
+                <identifier>Recordcopado_Sfdc_Login_Url_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__Org_Credential__c</fieldItem>
+                <identifier>Recordcopado_Org_Credential_cField1</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.copado__DataJSON__c</fieldItem>
+                <identifier>Recordcopado_DataJSON_cField1</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-4e0727ab-2bcc-4603-9520-48e481860650</name>

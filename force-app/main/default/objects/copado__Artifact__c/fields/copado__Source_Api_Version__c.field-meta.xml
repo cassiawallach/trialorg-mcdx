@@ -238,6 +238,11 @@
                 <default>true</default>
                 <label>45.0</label>
             </value>
+            <value>
+                <fullName>52.0</fullName>
+                <default>false</default>
+                <label>52.0</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
